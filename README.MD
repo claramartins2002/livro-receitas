@@ -4,8 +4,6 @@
 
 * strogonoff
 
-* bolo de chocolate
-
-* pudim
+* pavê
 
   
